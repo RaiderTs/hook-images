@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hook-images/static/css/main.abd4a287.chunk.css",
+    "main.js": "/hook-images/static/js/main.fdbf9f03.chunk.js",
+    "main.js.map": "/hook-images/static/js/main.fdbf9f03.chunk.js.map",
+    "runtime-main.js": "/hook-images/static/js/runtime-main.703423fb.js",
+    "runtime-main.js.map": "/hook-images/static/js/runtime-main.703423fb.js.map",
+    "static/css/2.17a9942a.chunk.css": "/hook-images/static/css/2.17a9942a.chunk.css",
+    "static/js/2.2d463c75.chunk.js": "/hook-images/static/js/2.2d463c75.chunk.js",
+    "static/js/2.2d463c75.chunk.js.map": "/hook-images/static/js/2.2d463c75.chunk.js.map",
+    "static/js/3.1e83931c.chunk.js": "/hook-images/static/js/3.1e83931c.chunk.js",
+    "static/js/3.1e83931c.chunk.js.map": "/hook-images/static/js/3.1e83931c.chunk.js.map",
+    "index.html": "/hook-images/index.html",
+    "static/css/2.17a9942a.chunk.css.map": "/hook-images/static/css/2.17a9942a.chunk.css.map",
+    "static/css/main.abd4a287.chunk.css.map": "/hook-images/static/css/main.abd4a287.chunk.css.map",
+    "static/js/2.2d463c75.chunk.js.LICENSE.txt": "/hook-images/static/js/2.2d463c75.chunk.js.LICENSE.txt",
+    "static/media/—Pngtree—red gradient ring fork symbol_4609561.1589bf7d.png": "/hook-images/static/media/—Pngtree—red gradient ring fork symbol_4609561.1589bf7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.703423fb.js",
+    "static/css/2.17a9942a.chunk.css",
+    "static/js/2.2d463c75.chunk.js",
+    "static/css/main.abd4a287.chunk.css",
+    "static/js/main.fdbf9f03.chunk.js"
+  ]
+}
